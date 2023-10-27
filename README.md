@@ -2,7 +2,7 @@
 Ce Tp consiste à : 
 
 1. Créer un Web service qui permet de : 
-   - Convertir un montant de l’auro en DH.
+   - Convertir un montant de l’euro en DH.
    - Consulter un Compte.
    - Consulter une Liste de comptes.
 2. Déployer le Web service avec un simple Serveur JaxWS
@@ -26,6 +26,11 @@ Ce Tp consiste à :
 
 ### Liste des comptes :
 ![ws](./captures/listCompte.png)
+
+### Comsomer le Webservice à partir du client :
+![ws](./captures/architecture2.png)
+#### Resultat:
+![ws](./captures/clientWS.png)
 
 
 
